@@ -1,0 +1,205 @@
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.config
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\Interop.CRDESIGNERLib.dll
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.ResolveComReference.cache
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.pdb
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.manifest
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\bin\Debug\KSDMS.application
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\bin\Debug\KSDMS.pdb
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.DataClass.FrmDMSPassport.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmCountryMaster.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmDMS.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmFind.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLocation.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLogin.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamDetail.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamMaster.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassport.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportDirectNew.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FRmPassportNew.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportReject.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportUpdate1.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPopUp.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmReportShow.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmRptPassport.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmTest.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserMaster.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserPermissions.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisa.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDirectEntry.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDoc.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaRej.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaType.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaUpdate.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmWelcome.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.Properties.Resources.resources
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\GenerateResource.read.1.tlog
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\GenerateResource.write.1.tlog
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe.manifest
+D:\Nigeria\SurinderNew\KSDMS_final\KSDMS\obj\Debug\KSDMS.application
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.config
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\Interop.CRDESIGNERLib.dll
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.ResolveComReference.cache
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.pdb
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.manifest
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.application
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.pdb
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.DataClass.FrmDMSPassport.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmCountryMaster.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmDMS.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmFind.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLocation.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLogin.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamDetail.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamMaster.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassport.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportDirectNew.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FRmPassportNew.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportReject.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportUpdate1.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPopUp.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmReportShow.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmRptPassport.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmTest.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserMaster.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserPermissions.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisa.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDirectEntry.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDoc.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaRej.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaType.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaUpdate.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmWelcome.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.Properties.Resources.resources
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\GenerateResource.read.1.tlog
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\GenerateResource.write.1.tlog
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe.manifest
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.application
+D:\Nigeria\EDMS\KSDMS_final\KSDMS\obj\Debug\GenerateResource.read.1035.tlog
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.config
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.manifest
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.application
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\bin\Debug\KSDMS.pdb
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.ResolveComReference.cache
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.DataClass.FrmDMSPassport.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmCountryMaster.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmDMS.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmFind.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLocation.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLogin.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamDetail.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamMaster.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassport.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportDirectNew.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FRmPassportNew.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportReject.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportUpdate1.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPopUp.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmReportShow.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmRptPassport.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmTest.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserMaster.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserPermissions.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisa.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDirectEntry.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDoc.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaRej.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaType.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaUpdate.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmWelcome.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.Properties.Resources.resources
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.GenerateResource.Cache
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe.manifest
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.application
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.pdb
+D:\Ks_Unite\EDMS\KSDMS_final\KSDMS\obj\Debug\KSDMS.csprojResolveAssemblyReference.cache
+D:\Nigeria\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.config
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\Interop.CRDESIGNERLib.dll
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.ResolveComReference.cache
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.pdb
+D:\Nigeria\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.manifest
+D:\Nigeria\KSDMS_final\KSDMS\bin\Debug\KSDMS.application
+D:\Nigeria\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe
+D:\Nigeria\KSDMS_final\KSDMS\bin\Debug\KSDMS.pdb
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.DataClass.FrmDMSPassport.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmCountryMaster.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmDMS.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmFind.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLocation.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLogin.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamDetail.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamMaster.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassport.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportDirectNew.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FRmPassportNew.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportReject.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportUpdate1.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPopUp.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmReportShow.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmRptPassport.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmTest.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserMaster.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserPermissions.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisa.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDirectEntry.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDoc.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaRej.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaType.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaUpdate.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmWelcome.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.Properties.Resources.resources
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\GenerateResource.read.1.tlog
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\GenerateResource.read.1035.tlog
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\GenerateResource.write.1.tlog
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe.manifest
+D:\Nigeria\KSDMS_final\KSDMS\obj\Debug\KSDMS.application
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.config
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.ResolveComReference.cache
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.pdb
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe.manifest
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\bin\Debug\KSDMS.application
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\bin\Debug\KSDMS.exe
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\bin\Debug\KSDMS.pdb
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.DataClass.FrmDMSPassport.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmCountryMaster.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmDMS.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmFind.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLocation.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmLogin.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamDetail.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmParamMaster.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassport.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportDirectNew.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FRmPassportNew.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportReject.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPassportUpdate1.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmPopUp.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmReportShow.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmRptPassport.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmTest.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserMaster.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmUserPermissions.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisa.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDirectEntry.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaDoc.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaRej.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaType.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmVisaUpdate.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.FrmWelcome.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.Properties.Resources.resources
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.csproj.GenerateResource.Cache
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.exe.manifest
+D:\Ks_Unite\Nigeria new update\KSDMS_final\KSDMS_final\KSDMS\obj\Debug\KSDMS.application

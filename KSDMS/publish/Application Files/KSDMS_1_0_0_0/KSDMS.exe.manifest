@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="KSDMS.exe" version="1.0.0.0" publicKeyToken="dc94cbbbaadf5e55" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Nig2..ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="KSDMS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="KSDMS.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DocBrowser.dll" size="15360">
+      <assemblyIdentity name="DocBrowser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ZrqA3xV1J9AsDzzMmoR4RC92DaA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExcelViewer.dll" size="11264">
+      <assemblyIdentity name="ExcelViewer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>zqNQXo9ZGvVtsGr/tjXP5ocDEqA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KSDMS.exe" size="4283904">
+      <assemblyIdentity name="KSDMS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>uGvH7AG7xVfOpJQ+kzU2pg3Ihgk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PdfSharp.dll" size="569344">
+      <assemblyIdentity name="PdfSharp" version="1.0.898.0" publicKeyToken="F94615AA0424F9EB" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3/cba/adi5m0OTS//bk1gi0dcxA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="KSDMS.exe.config" size="529">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sZ3osn559TaZxdKxD62CryXrSzM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Nig2..ico" size="1078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AvvNkpdGz6rXri++WsHK2CQ6SQw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\FormBackNew.jpg" size="9992">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SiLWeMC72ypae0woPXVUT9amekI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SURENDRA-SAINI\Surendra Saini" issuerKeyHash="ad583fe43c5463e413b9a23cc01e5a24175c9876" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PxwGMuhoU/UWiEnMdpei4E9nSHo=</DigestValue></Reference></SignedInfo><SignatureValue>nk/AJ0Fd6gjaJnRASlTSai2kYieJuV5Qrudsy1g4wOmy5Q0n0BEwXd819Q+nBYCPVXtyN00SApuKa8EclOOduLxH0xdKzDpefbXUOzTkdZwlxT52AZceiYlVT5dee1y6MpPdOViAWbT2GhJ8Oe4Ji6bZcOebHqs6RN5diDELsU0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yA7TunyVGULAFXM6HRF+jhD2/ORm9gpAfmvZoZCuFx0kXn7CsL5yWe7ntaQKvll4Gz6hMA11I1wxXfn3VvMKBFZGO02WH58Q37eEu9Xl5aDHOvv/tQRzyunj1BNhEr2hGAijVS3R2KD2ww40SZ6E74z3mA31YUhzvXbgxCIqC7M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7a48674fe0a29776cc498816f55368e832061c3f" Description="" Url=""><as:assemblyIdentity name="KSDMS.exe" version="1.0.0.0" publicKeyToken="dc94cbbbaadf5e55" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SURENDRA-SAINI\Surendra Saini</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CtgDjNByql/hKeQcoo+P/N/HWBw=</DigestValue></Reference></SignedInfo><SignatureValue>kxa1tS0GqU72Pwn3s6TElwN6rq5ZprqsZC4RYhneC+FxEAprSuQ1Ikbx6P85wDezyPhzRNYXvJD0qHe7c2wDYRfWznnmaiApB+agZfDlV0vYVG5BYO28bBJVh2nS/Au0CwjzMZA7fFjN3V/VRt4cm3BMUHmosIqwvnCEigWk5eM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yA7TunyVGULAFXM6HRF+jhD2/ORm9gpAfmvZoZCuFx0kXn7CsL5yWe7ntaQKvll4Gz6hMA11I1wxXfn3VvMKBFZGO02WH58Q37eEu9Xl5aDHOvv/tQRzyunj1BNhEr2hGAijVS3R2KD2ww40SZ6E74z3mA31YUhzvXbgxCIqC7M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQehanz9MGe79ERg751XXEmDANBgkqhkiG9w0BAQUFADBFMUMwQQYDVQQDHjoAUwBVAFIARQBOAEQAUgBBAC0AUwBBAEkATgBJAFwAUwB1AHIAZQBuAGQAcgBhACAAUwBhAGkAbgBpMB4XDTE0MDkwMzA1NDkzNFoXDTE1MDkwMzExNDkzNFowRTFDMEEGA1UEAx46AFMAVQBSAEUATgBEAFIAQQAtAFMAQQBJAE4ASQBcAFMAdQByAGUAbgBkAHIAYQAgAFMAYQBpAG4AaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyA7TunyVGULAFXM6HRF+jhD2/ORm9gpAfmvZoZCuFx0kXn7CsL5yWe7ntaQKvll4Gz6hMA11I1wxXfn3VvMKBFZGO02WH58Q37eEu9Xl5aDHOvv/tQRzyunj1BNhEr2hGAijVS3R2KD2ww40SZ6E74z3mA31YUhzvXbgxCIqC7MCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCuWAuVC4PVUB6jEwGh/mDC4w50vchOdvoiCiZrS+dCh7aTcbQGvF8uiFmbqN1CmPf5mk7A/U/SXFxboC8FfUane2yphqKqsXytj1wAAwuGRNjKsEjDMm7GUVN/5ebpeHc2HfFPhBm+U3mBPJYOFN5oUHJpdOGFCjGBH18JtjhUNQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KSDMS">
+</Property><Property Name="Solution File" Value="D:\Nigeria\DMS10\KSDMS\KSDMS.sln">
+</Property><Property Name="User Options File" Value="D:\Nigeria\DMS10\KSDMS\KSDMS.suo">
+</Property><Property Name="Date" Value="Tuesday, June 03, 2014">
+</Property><Property Name="Time" Value="13:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KSDMS.sln" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KSDMS.suo" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS.suo">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\KSDMS.csproj" Description="Project file successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\KSDMS.csproj">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\KSDMS.csproj.user" Description="Project user file successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\KSDMS.csproj.user">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassButtons.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassButtons.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassCommenDataLayer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassCommenDataLayer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassCountry.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassCountry.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassDepartmentMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassDepartmentMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassDMS.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassDMS.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassDocumentLock.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassDocumentLock.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassLocation.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassLocation.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassParamDetails.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassParamDetails.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassParamMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassParamMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassUserMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassUserMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassUserPermissions.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassUserPermissions.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassUserRoll.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassUserRoll.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassVisa.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassVisa.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\ClassVisaType.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\ClassVisaType.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\DataClass\GlobalFunction.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\DataClass\GlobalFunction.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmCountryMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmCountryMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmCountryMaster.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmCountryMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmDMS.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmDMS.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmDMS.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmDMS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmFind.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmFind.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmFind.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmFind.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmLogin.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmLogin.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmLogin.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamDetail.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamDetail.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamDetail.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamDetail.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamMaster.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmPopUp.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmPopUp.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmPopUp.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmPopUp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmUserMaster.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmUserMaster.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmUserMaster.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmUserMaster.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisa.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisa.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisa.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisa.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaDoc.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaDoc.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaDoc.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaDoc.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaType.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaType.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaType.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaType.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmWelcome.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmWelcome.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmWelcome.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmWelcome.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Program.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Program.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\app.config" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\app.config">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Properties\Settings.settings" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Resources\2.jpg" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Resources\2.jpg">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmCountryMaster.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmCountryMaster.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmDMS.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmDMS.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmFind.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmFind.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmLogin.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmLogin.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamDetail.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamDetail.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmParamMaster.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmParamMaster.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmPopUp.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmPopUp.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmUserMaster.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmUserMaster.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisa.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisa.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaDoc.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaDoc.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmVisaType.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmVisaType.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\FrmWelcome.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\FrmWelcome.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\Properties\Resources.resx" Description="File successfully backed up as D:\Nigeria\DMS10\KSDMS\Backup\KSDMS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\KSDMS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="KSDMS" Source="KSDMS\KSDMS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KSDMS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KSDMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KSDMS" Source="KSDMS\KSDMS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
